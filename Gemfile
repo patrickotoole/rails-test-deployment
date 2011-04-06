@@ -9,7 +9,7 @@ gem 'mysql'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # Use unicorn as the web server
-gem 'rack', '1.2.1'
+gem 'rack', '1.2.2'
 gem 'unicorn'
 
 # Deploy with Capistrano
